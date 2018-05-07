@@ -1,0 +1,902 @@
+[
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:03:49",
+    "TimeStop": "11:07:20",
+    "Msisdn": "0887862237",
+    "Promotion": "P1",
+    "Duration": 3811,
+    "Rate": "65.52"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:07:00",
+    "TimeStop": "12:01:57",
+    "Msisdn": "0815909438",
+    "Promotion": "P1",
+    "Duration": 6897,
+    "Rate": "116.95"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:12:12",
+    "TimeStop": "12:43:34",
+    "Msisdn": "0839200962",
+    "Promotion": "P1",
+    "Duration": 5482,
+    "Rate": "93.37"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:36:42",
+    "TimeStop": "11:45:56",
+    "Msisdn": "0831596076",
+    "Promotion": "P1",
+    "Duration": 554,
+    "Rate": "11.23"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:44:33",
+    "TimeStop": "12:29:23",
+    "Msisdn": "0885620697",
+    "Promotion": "P1",
+    "Duration": 6290,
+    "Rate": "106.83"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:39:54",
+    "TimeStop": "12:31:55",
+    "Msisdn": "0867266297",
+    "Promotion": "P1",
+    "Duration": 6721,
+    "Rate": "114.02"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:53:46",
+    "TimeStop": "11:14:47",
+    "Msisdn": "0859560816",
+    "Promotion": "P1",
+    "Duration": 1261,
+    "Rate": "23.02"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:48:24",
+    "TimeStop": "12:18:40",
+    "Msisdn": "0888027637",
+    "Promotion": "P1",
+    "Duration": 1816,
+    "Rate": "32.27"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:54:50",
+    "TimeStop": "12:19:40",
+    "Msisdn": "0898267749",
+    "Promotion": "P1",
+    "Duration": 5090,
+    "Rate": "86.83"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:24:18",
+    "TimeStop": "12:27:21",
+    "Msisdn": "0887563471",
+    "Promotion": "P1",
+    "Duration": 3783,
+    "Rate": "65.05"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:11:37",
+    "TimeStop": "11:15:47",
+    "Msisdn": "0844994279",
+    "Promotion": "P1",
+    "Duration": 3850,
+    "Rate": "66.17"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:44:52",
+    "TimeStop": "12:30:48",
+    "Msisdn": "0840014668",
+    "Promotion": "P1",
+    "Duration": 6356,
+    "Rate": "107.93"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:18:44",
+    "TimeStop": "10:22:05",
+    "Msisdn": "0886387134",
+    "Promotion": "P1",
+    "Duration": 201,
+    "Rate": "5.35"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:56:04",
+    "TimeStop": "12:29:05",
+    "Msisdn": "0882913422",
+    "Promotion": "P1",
+    "Duration": 5581,
+    "Rate": "95.02"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:47:53",
+    "TimeStop": "13:04:28",
+    "Msisdn": "0883961304",
+    "Promotion": "P1",
+    "Duration": 4595,
+    "Rate": "78.58"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:25:42",
+    "TimeStop": "11:26:31",
+    "Msisdn": "0806241221",
+    "Promotion": "P1",
+    "Duration": 49,
+    "Rate": "2.45"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:28:32",
+    "TimeStop": "13:15:40",
+    "Msisdn": "0877573105",
+    "Promotion": "P1",
+    "Duration": 6428,
+    "Rate": "109.13"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:08:23",
+    "TimeStop": "13:04:39",
+    "Msisdn": "0857522134",
+    "Promotion": "P1",
+    "Duration": 6976,
+    "Rate": "118.27"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:57:58",
+    "TimeStop": "12:49:23",
+    "Msisdn": "0866407778",
+    "Promotion": "P1",
+    "Duration": 6685,
+    "Rate": "113.42"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:41:53",
+    "TimeStop": "13:00:39",
+    "Msisdn": "0874640178",
+    "Promotion": "P1",
+    "Duration": 4726,
+    "Rate": "80.77"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:23:04",
+    "TimeStop": "12:00:47",
+    "Msisdn": "0849639708",
+    "Promotion": "P1",
+    "Duration": 2263,
+    "Rate": "39.72"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:04:50",
+    "TimeStop": "11:37:38",
+    "Msisdn": "0825653143",
+    "Promotion": "P1",
+    "Duration": 1968,
+    "Rate": "34.80"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:50:30",
+    "TimeStop": "12:39:41",
+    "Msisdn": "0800531748",
+    "Promotion": "P1",
+    "Duration": 6551,
+    "Rate": "111.18"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:45:52",
+    "TimeStop": "13:15:28",
+    "Msisdn": "0859890390",
+    "Promotion": "P1",
+    "Duration": 5376,
+    "Rate": "91.60"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:17:21",
+    "TimeStop": "12:35:14",
+    "Msisdn": "0857920882",
+    "Promotion": "P1",
+    "Duration": 4673,
+    "Rate": "79.88"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:02:55",
+    "TimeStop": "11:02:13",
+    "Msisdn": "0816160625",
+    "Promotion": "P1",
+    "Duration": 3558,
+    "Rate": "61.30"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:05:06",
+    "TimeStop": "11:31:46",
+    "Msisdn": "0829419831",
+    "Promotion": "P1",
+    "Duration": 1600,
+    "Rate": "28.67"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:24:43",
+    "TimeStop": "11:31:32",
+    "Msisdn": "0821734732",
+    "Promotion": "P1",
+    "Duration": 409,
+    "Rate": "8.82"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:36:33",
+    "TimeStop": "11:42:10",
+    "Msisdn": "0848619041",
+    "Promotion": "P1",
+    "Duration": 337,
+    "Rate": "7.62"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:13:17",
+    "TimeStop": "12:04:28",
+    "Msisdn": "0849989754",
+    "Promotion": "P1",
+    "Duration": 3071,
+    "Rate": "53.18"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:22:55",
+    "TimeStop": "11:50:07",
+    "Msisdn": "0878013300",
+    "Promotion": "P1",
+    "Duration": 1632,
+    "Rate": "29.20"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:19:18",
+    "TimeStop": "11:47:44",
+    "Msisdn": "0856874944",
+    "Promotion": "P1",
+    "Duration": 1706,
+    "Rate": "30.43"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:18:20",
+    "TimeStop": "12:09:45",
+    "Msisdn": "0832796119",
+    "Promotion": "P1",
+    "Duration": 6685,
+    "Rate": "113.42"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:35:55",
+    "TimeStop": "13:13:10",
+    "Msisdn": "0852148687",
+    "Promotion": "P1",
+    "Duration": 5835,
+    "Rate": "99.25"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:19:59",
+    "TimeStop": "12:02:00",
+    "Msisdn": "0811063879",
+    "Promotion": "P1",
+    "Duration": 6121,
+    "Rate": "104.02"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "09:52:41",
+    "TimeStop": "09:52:52",
+    "Msisdn": "0855443773",
+    "Promotion": "P1",
+    "Duration": 11,
+    "Rate": "0.55"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:14:06",
+    "TimeStop": "12:30:25",
+    "Msisdn": "0865035767",
+    "Promotion": "P1",
+    "Duration": 4579,
+    "Rate": "78.32"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:05:31",
+    "TimeStop": "11:49:54",
+    "Msisdn": "0865971491",
+    "Promotion": "P1",
+    "Duration": 6263,
+    "Rate": "106.38"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:02:23",
+    "TimeStop": "11:37:56",
+    "Msisdn": "0802888109",
+    "Promotion": "P1",
+    "Duration": 2133,
+    "Rate": "37.55"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:40:39",
+    "TimeStop": "11:04:44",
+    "Msisdn": "0829537878",
+    "Promotion": "P1",
+    "Duration": 1445,
+    "Rate": "26.08"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:19:50",
+    "TimeStop": "11:38:53",
+    "Msisdn": "0845110465",
+    "Promotion": "P1",
+    "Duration": 1143,
+    "Rate": "21.05"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:19:11",
+    "TimeStop": "12:48:05",
+    "Msisdn": "0828132696",
+    "Promotion": "P1",
+    "Duration": 5334,
+    "Rate": "90.90"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:37:29",
+    "TimeStop": "12:08:38",
+    "Msisdn": "0882216341",
+    "Promotion": "P1",
+    "Duration": 1869,
+    "Rate": "33.15"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "09:55:42",
+    "TimeStop": "11:03:54",
+    "Msisdn": "0848000319",
+    "Promotion": "P1",
+    "Duration": 4092,
+    "Rate": "70.20"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:23:11",
+    "TimeStop": "10:41:16",
+    "Msisdn": "0851378914",
+    "Promotion": "P1",
+    "Duration": 1085,
+    "Rate": "20.08"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:18:06",
+    "TimeStop": "12:19:27",
+    "Msisdn": "0872452331",
+    "Promotion": "P1",
+    "Duration": 3681,
+    "Rate": "63.35"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:30:27",
+    "TimeStop": "12:55:59",
+    "Msisdn": "0883362043",
+    "Promotion": "P1",
+    "Duration": 5132,
+    "Rate": "87.53"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:41:07",
+    "TimeStop": "10:46:58",
+    "Msisdn": "0812554758",
+    "Promotion": "P1",
+    "Duration": 351,
+    "Rate": "7.85"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:33:36",
+    "TimeStop": "11:56:30",
+    "Msisdn": "0896271774",
+    "Promotion": "P1",
+    "Duration": 1374,
+    "Rate": "24.90"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:32:11",
+    "TimeStop": "12:41:52",
+    "Msisdn": "0834259317",
+    "Promotion": "P1",
+    "Duration": 4181,
+    "Rate": "71.68"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "09:54:18",
+    "TimeStop": "11:50:48",
+    "Msisdn": "0823331753",
+    "Promotion": "P1",
+    "Duration": 6990,
+    "Rate": "118.50"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:31:08",
+    "TimeStop": "11:51:19",
+    "Msisdn": "0883738595",
+    "Promotion": "P1",
+    "Duration": 1211,
+    "Rate": "22.18"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:10:59",
+    "TimeStop": "13:09:27",
+    "Msisdn": "0838858658",
+    "Promotion": "P1",
+    "Duration": 7108,
+    "Rate": "120.47"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:28:00",
+    "TimeStop": "11:48:42",
+    "Msisdn": "0806878293",
+    "Promotion": "P1",
+    "Duration": 1242,
+    "Rate": "22.70"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:19:49",
+    "TimeStop": "12:36:56",
+    "Msisdn": "0881984147",
+    "Promotion": "P1",
+    "Duration": 4627,
+    "Rate": "79.12"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:14:49",
+    "TimeStop": "12:24:00",
+    "Msisdn": "0806220212",
+    "Promotion": "P1",
+    "Duration": 4151,
+    "Rate": "71.18"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:41:01",
+    "TimeStop": "10:54:29",
+    "Msisdn": "0827994482",
+    "Promotion": "P1",
+    "Duration": 808,
+    "Rate": "15.47"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:32:12",
+    "TimeStop": "12:23:11",
+    "Msisdn": "0888217204",
+    "Promotion": "P1",
+    "Duration": 6659,
+    "Rate": "112.98"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:23:41",
+    "TimeStop": "11:37:22",
+    "Msisdn": "0802458583",
+    "Promotion": "P1",
+    "Duration": 4421,
+    "Rate": "75.68"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:07:44",
+    "TimeStop": "12:08:11",
+    "Msisdn": "0897481358",
+    "Promotion": "P1",
+    "Duration": 3627,
+    "Rate": "62.45"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:58:56",
+    "TimeStop": "12:54:52",
+    "Msisdn": "0843109748",
+    "Promotion": "P1",
+    "Duration": 6956,
+    "Rate": "117.93"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:26:53",
+    "TimeStop": "13:01:39",
+    "Msisdn": "0850565674",
+    "Promotion": "P1",
+    "Duration": 5686,
+    "Rate": "96.77"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "09:57:09",
+    "TimeStop": "11:18:14",
+    "Msisdn": "0808051798",
+    "Promotion": "P1",
+    "Duration": 4865,
+    "Rate": "83.08"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:24:29",
+    "TimeStop": "13:06:17",
+    "Msisdn": "0887141459",
+    "Promotion": "P1",
+    "Duration": 6108,
+    "Rate": "103.80"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:54:37",
+    "TimeStop": "11:36:53",
+    "Msisdn": "0802931979",
+    "Promotion": "P1",
+    "Duration": 2536,
+    "Rate": "44.27"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:02:46",
+    "TimeStop": "12:34:51",
+    "Msisdn": "0821311309",
+    "Promotion": "P1",
+    "Duration": 5525,
+    "Rate": "94.08"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:25:29",
+    "TimeStop": "12:18:40",
+    "Msisdn": "0881295913",
+    "Promotion": "P1",
+    "Duration": 6791,
+    "Rate": "115.18"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:11:35",
+    "TimeStop": "11:22:19",
+    "Msisdn": "0841119653",
+    "Promotion": "P1",
+    "Duration": 4244,
+    "Rate": "72.73"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:29:28",
+    "TimeStop": "11:39:19",
+    "Msisdn": "0811140735",
+    "Promotion": "P1",
+    "Duration": 591,
+    "Rate": "11.85"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:19:26",
+    "TimeStop": "12:38:14",
+    "Msisdn": "0852428745",
+    "Promotion": "P1",
+    "Duration": 4728,
+    "Rate": "80.80"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:58:35",
+    "TimeStop": "12:46:49",
+    "Msisdn": "0856439274",
+    "Promotion": "P1",
+    "Duration": 6494,
+    "Rate": "110.23"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:17:25",
+    "TimeStop": "12:55:27",
+    "Msisdn": "0861833155",
+    "Promotion": "P1",
+    "Duration": 5882,
+    "Rate": "100.03"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:21:55",
+    "TimeStop": "10:40:57",
+    "Msisdn": "0810660431",
+    "Promotion": "P1",
+    "Duration": 1142,
+    "Rate": "21.03"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:07:36",
+    "TimeStop": "10:51:23",
+    "Msisdn": "0867308013",
+    "Promotion": "P1",
+    "Duration": 2627,
+    "Rate": "45.78"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:39:18",
+    "TimeStop": "11:09:15",
+    "Msisdn": "0849958685",
+    "Promotion": "P1",
+    "Duration": 1797,
+    "Rate": "31.95"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:06:50",
+    "TimeStop": "11:22:37",
+    "Msisdn": "0821473408",
+    "Promotion": "P1",
+    "Duration": 947,
+    "Rate": "17.78"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:16:09",
+    "TimeStop": "10:35:27",
+    "Msisdn": "0869421388",
+    "Promotion": "P1",
+    "Duration": 1158,
+    "Rate": "21.30"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:27:13",
+    "TimeStop": "12:35:45",
+    "Msisdn": "0882659114",
+    "Promotion": "P1",
+    "Duration": 4112,
+    "Rate": "70.53"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:25:18",
+    "TimeStop": "12:45:29",
+    "Msisdn": "0817220593",
+    "Promotion": "P1",
+    "Duration": 4811,
+    "Rate": "82.18"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:03:11",
+    "TimeStop": "11:47:37",
+    "Msisdn": "0889550199",
+    "Promotion": "P1",
+    "Duration": 6266,
+    "Rate": "106.43"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:18:41",
+    "TimeStop": "11:14:11",
+    "Msisdn": "0848779172",
+    "Promotion": "P1",
+    "Duration": 3330,
+    "Rate": "57.50"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:17:45",
+    "TimeStop": "10:23:15",
+    "Msisdn": "0845349237",
+    "Promotion": "P1",
+    "Duration": 330,
+    "Rate": "7.50"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:26:37",
+    "TimeStop": "11:06:18",
+    "Msisdn": "0800524835",
+    "Promotion": "P1",
+    "Duration": 2381,
+    "Rate": "41.68"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:22:22",
+    "TimeStop": "12:08:56",
+    "Msisdn": "0892780969",
+    "Promotion": "P1",
+    "Duration": 6394,
+    "Rate": "108.57"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "09:51:25",
+    "TimeStop": "11:24:14",
+    "Msisdn": "0822509201",
+    "Promotion": "P1",
+    "Duration": 5569,
+    "Rate": "94.82"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:06:15",
+    "TimeStop": "11:03:05",
+    "Msisdn": "0867950067",
+    "Promotion": "P1",
+    "Duration": 3410,
+    "Rate": "58.83"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:12:10",
+    "TimeStop": "13:03:17",
+    "Msisdn": "0803704073",
+    "Promotion": "P1",
+    "Duration": 6667,
+    "Rate": "113.12"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:21:58",
+    "TimeStop": "11:18:09",
+    "Msisdn": "0833873084",
+    "Promotion": "P1",
+    "Duration": 3371,
+    "Rate": "58.18"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:33:06",
+    "TimeStop": "12:56:50",
+    "Msisdn": "0863822130",
+    "Promotion": "P1",
+    "Duration": 5024,
+    "Rate": "85.73"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:27:06",
+    "TimeStop": "11:53:58",
+    "Msisdn": "0857529418",
+    "Promotion": "P1",
+    "Duration": 5212,
+    "Rate": "88.87"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:21:15",
+    "TimeStop": "11:43:17",
+    "Msisdn": "0856806067",
+    "Promotion": "P1",
+    "Duration": 4922,
+    "Rate": "84.03"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:23:17",
+    "TimeStop": "12:23:14",
+    "Msisdn": "0814528728",
+    "Promotion": "P1",
+    "Duration": 3597,
+    "Rate": "61.95"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:24:07",
+    "TimeStop": "11:40:52",
+    "Msisdn": "0877238659",
+    "Promotion": "P1",
+    "Duration": 4605,
+    "Rate": "78.75"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:00:36",
+    "TimeStop": "11:51:23",
+    "Msisdn": "0825301901",
+    "Promotion": "P1",
+    "Duration": 3047,
+    "Rate": "52.78"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:21:13",
+    "TimeStop": "12:44:57",
+    "Msisdn": "0889989684",
+    "Promotion": "P1",
+    "Duration": 5024,
+    "Rate": "85.73"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:29:19",
+    "TimeStop": "11:41:46",
+    "Msisdn": "0898252328",
+    "Promotion": "P1",
+    "Duration": 4347,
+    "Rate": "74.45"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:44:15",
+    "TimeStop": "12:58:41",
+    "Msisdn": "0844786544",
+    "Promotion": "P1",
+    "Duration": 4466,
+    "Rate": "76.43"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "11:41:06",
+    "TimeStop": "11:57:12",
+    "Msisdn": "0832528332",
+    "Promotion": "P1",
+    "Duration": 966,
+    "Rate": "18.10"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:38:12",
+    "TimeStop": "11:50:04",
+    "Msisdn": "0882860039",
+    "Promotion": "P1",
+    "Duration": 4312,
+    "Rate": "73.87"
+  },
+  {
+    "DateStart": "22/06/2013",
+    "TimeStart": "10:32:54",
+    "TimeStop": "12:14:26",
+    "Msisdn": "0833497075",
+    "Promotion": "P1",
+    "Duration": 6092,
+    "Rate": "103.53"
+  }
+]
